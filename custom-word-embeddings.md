@@ -1,4 +1,4 @@
-Build word embeddings in R with YouTube transcripts
+Build word embeddings in R with skincare video transcripts
 ================
 01-22-2021
 
@@ -111,7 +111,7 @@ top_words %>%
     geom_col(show.legend = F, fill = "#68B8D4") 
 ```
 
-![](analysing-skin-care-routines-with-nlp-in-r_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](custom-word-embeddings_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 That’s interesting - let’s look at how “like” is being used in these
 transcripts. I’ll split each transcript into collections of 10 words,

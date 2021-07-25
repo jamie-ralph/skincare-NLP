@@ -1,6 +1,5 @@
 ---
-title: "Build word embeddings in R with YouTube transcripts"
-description: "No deep learning required :)"
+title: "Build word embeddings in R with skincare video transcripts"
 date: 01-22-2021
 output:
   github_document
